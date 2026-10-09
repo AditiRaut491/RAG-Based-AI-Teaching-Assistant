@@ -1,0 +1,71 @@
+{"text": " From todays video, we will start the Sigma Web Development course. Like it with high energy, guys. Because in this video, I am going to make you a profitable web developer from zero. This course is absolutely free.", 
+
+"segments": [
+        {"id": 0, "seek": 0, "start": 0.0, "end": 3.5, "text": " From todays video, we will start the Sigma Web Development course.","tokens": [
+                50364,
+                3358,
+                965,
+                311,
+                960,
+                11,
+                321,
+                486,
+                722,
+                264,
+                36595,
+                9573,
+                15041,
+                1164,
+                13,
+                50539
+            ], "temperature": 0.0, "avg_logprob": -0.5900412126020952, "compression_ratio": 1.3190184049079754, "no_speech_prob": 0.03307086601853371
+        },
+        {"id": 1, "seek": 0, "start": 3.5, "end": 5.0, "text": " Like it with high energy, guys.", "tokens": [
+                50539,
+                1743,
+                309,
+                365,
+                1090,
+                2281,
+                11,
+                1074,
+                13,
+                50614
+            ], "temperature": 0.0, "avg_logprob": -0.5900412126020952, "compression_ratio": 1.3190184049079754, "no_speech_prob": 0.03307086601853371
+        },
+        {"id": 2, "seek": 0, "start": 5.0, "end": 9.5, "text": " Because in this video, I am going to make you a profitable web developer from zero.", "tokens": [
+                50614,
+                1436,
+                294,
+                341,
+                960,
+                11,
+                286,
+                669,
+                516,
+                281,
+                652,
+                291,
+                257,
+                21608,
+                3670,
+                10754,
+                490,
+                4018,
+                13,
+                50839
+            ], "temperature": 0.0, "avg_logprob": -0.5900412126020952, "compression_ratio": 1.3190184049079754, "no_speech_prob": 0.03307086601853371
+        },
+        {"id": 3, "seek": 0, "start": 9.5, "end": 10.5, "text": " This course is absolutely free.", "tokens": [
+                50839,
+                639,
+                1164,
+                307,
+                3122,
+                1737,
+                13,
+                50889
+            ], "temperature": 0.0, "avg_logprob": -0.5900412126020952, "compression_ratio": 1.3190184049079754, "no_speech_prob": 0.03307086601853371
+        }
+    ], "language": "hi"
+}
